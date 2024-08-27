@@ -22,7 +22,7 @@ let kings = [
   },
   {
     name: "Girvan Yuddha Bikram Shah",
-    img: "https://github.com/utsavarch/kings_of_nepal/blob/main/src/img/girvin.png?raw=true",
+    img: "https://github.com/utsavarch/kings_of_nepal/blob/main/src/img/girvan.png?raw=true",
     des: "Girvan Yuddha Bikram Shah was the eldest son of King Rana Bahadur Shah and his widow Queen Kantivati. Girvan became the King of Nepal at the age of 1 year and 6 months after the resignation of his father. His reign is known in history for the murder of his father, the rise of Bhimsen Thapa, and the famous Anglo-Nepal War.",
     details:
       "Girvan Yuddha Bikram Shah was the eldest son of King Rana Bahadur Shah and his widow Queen Kantivati. Girvan became the King of Nepal at the age of 1 year and 6 months after the resignation of his father. His reign is known in history for the murder of his father, the rise of Bhimsen Thapa, and the famous Anglo-Nepal War. Girvan had two wives, Siddhi Rajya Laxmi Devi and Gorakhlaxmi Devi, and a son named Rajendra Bikram Shah, who became king of Nepal as an infant after Girvan’s death. Girvan was born to a widow who eventually married Rana Bahadur Shah after he was enamored by her beauty. The Royal Priests of Nepal made a declaration that one of Rana Bahadur Shah’s wives would be gravely sick in a few months and eventually die. They stated that the crowning of Girvan and the illegitimate marriage of Rana Bahadur Shah caused it. Kantivati Jha, the mother of Girvan, was diagnosed with TB, and after her death, Girvan was crowned King.",
