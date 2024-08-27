@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Hero from "./components/Hero";
 import Card from "./components/Card";
-import Popup from "./components/popup.jsx";
+import Popup from "./components/Popup.jsx";
 import kings from "./data.js";
 
 function App() {
