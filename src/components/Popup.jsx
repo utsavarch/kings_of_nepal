@@ -1,9 +1,10 @@
 import React from "react";
+import "../index.css";
 
 function Popup({ king, closePopup }) {
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center overflow-y-auto">
-      <div className="bg-[#f8fafc] p-10 rounded-lg max-w-4xl relative max-h-[90vh] overflow-y-auto">
+      <div className="bg-[#f8fafc] p-10 rounded-lg max-w-4xl relative max-h-[90vh] overflow-y-auto scrollbar-hide">
         <button className="absolute top-2 right-2 text-xl" onClick={closePopup}>
           &times;
         </button>
